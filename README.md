@@ -5,4 +5,6 @@ This repository includes:
 * APK
 * Image target for download and / or printing
 
+**Made in Unity 2019.3.0f6**
+
 _by ARS aka. The Developer_
